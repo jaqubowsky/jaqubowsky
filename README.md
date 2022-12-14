@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaqubowsky
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, JavaScript, HTML and CSS.
 - 📫 How to reach me at jaqubowskyy@gmail.com
 
 <!---
