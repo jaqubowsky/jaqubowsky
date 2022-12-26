@@ -8,8 +8,7 @@
 - 📫 How to reach me **jakub.nalewajk04@gmail.com**
 
 - ⚡ Fun fact **gym addict.**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
