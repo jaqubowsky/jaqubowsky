@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning JavaScript, HTML and CSS.<br>👀 I’m interested in Web Developement.<br>📫 How to reach me [jakub.nalewajk04@gmail.com](mailto:jakub.nalewajk04@gmail.com)<br>⚡ Fun fact: **gym addict**.
+🌱 I’m currently learning JavaScript, HTML and CSS.<br>👀 I’m interested in Web Developement.<br>📫 Reach me at: [jakub.nalewajk04@gmail.com](mailto:jakub.nalewajk04@gmail.com)<br>⚡ Fun fact: **gym addict**.
 
 
 # 💻 Tech Stack:
