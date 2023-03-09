@@ -10,8 +10,7 @@
 # ⌛ In progress:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=jaqubowsky&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)<br/>
-![](https://komarev.com/ghpvc/?username=jaqubowsky&style=for-the-badge&color=blueviolet)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaqubowsky&theme=dark&hide_border=true&locale=pl&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
