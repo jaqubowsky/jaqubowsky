@@ -11,9 +11,3 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=jaqubowsky&theme=dark&hide_border=true&locale=pl&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-jaqubowsky/jaqubowsky is a ✨✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
