@@ -1,19 +1,39 @@
 <h1 align="center">Hi 👋, I'm Jakub Nalewajk</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
 
-# 💻 Tech Stack:
+<p align="center">
+  I'm passionate about building modern web applications and hosting small-scale SaaS products for personal and experimental use. 
+  My current focus is on designing <strong>scalable architectures</strong>, optimizing <strong>performance</strong>, and using modern tools in the <strong>TypeScript ecosystem</strong>.
+</p>
 
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Vitest](https://skillicons.dev/icons?i=vitest)
-![Cypress](https://skillicons.dev/icons?i=cypress)
-![Express](https://skillicons.dev/icons?i=express)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
+---
 
-# 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=jaqubowsky&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### 🧰 Tech Stack
 
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaqubowsky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,astro,react,tailwind,express,mongodb,postgresql,prisma,docker,aws" alt="Tech Stack Icons" />
+</p>
+
+---
+
+
+### 📚 Currently Exploring
+
+- Vector search & embeddings for AI features  
+- Feature-driven architecture  
+- CI/CD with Docker, GitHub Actions & self hosting on VPS  
+- SEO & product marketing for SaaS tools
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqubowsky&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [Portfolio](https://jnalewajk.me)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jakub-nalewajk/)
