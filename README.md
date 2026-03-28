@@ -1,6 +1,6 @@
 <h1 align="center">Jakub Nalewajk</h1>
 <p align="center">
-  Frontend Developer specializing in <strong>Next.js</strong> and the <strong>TypeScript ecosystem</strong>.<br/>
+  Fullstack Developer specializing in <strong>Next.js</strong> and the <strong>TypeScript ecosystem</strong>.<br/>
   I build web applications and SaaS products with a focus on clean architecture and performance.
 </p>
 
