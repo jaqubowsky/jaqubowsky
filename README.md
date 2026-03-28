@@ -29,5 +29,5 @@
 
 ### 📫 Connect
 - 🌐 [Portfolio](https://jnalewajk.me)
+- 📄 [CV / Resume](https://jnalewajk.me/0-jakub-nalewajk-cv.pdf) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jakub-nalewajk/)
-- 📊 [Status Page](https://status.jnalewajk.me)
