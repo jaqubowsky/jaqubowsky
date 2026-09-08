@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="215.62"
+          width="215.63"
           height="8"
           fill="#3178c6"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="215.62"
+          x="215.63"
           y="0"
-          width="13.35"
+          width="13.34"
           height="8"
           fill="#fcb32c"
         />
@@ -212,7 +212,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#336790" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PLpgSQL 2.75%
+        PLpgSQL 2.74%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
