@@ -29,5 +29,5 @@
 
 ### 📫 Connect
 - 🌐 [Portfolio](https://jnalewajk.me)
-- 📄 [CV / Resume](https://jnalewajk.me/0-jakub-nalewajk-cv.pdf) 
+- 📄 [CV / Resume](https://www.jnalewajk.me/jakub-nalewajk-fullstack-developer-cv.pdf) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jakub-nalewajk/)
